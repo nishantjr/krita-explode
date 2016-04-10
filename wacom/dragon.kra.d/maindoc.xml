@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOC PUBLIC '-//KDE//DTD krita 2.0//EN' 'http://www.calligra.org/DTD/krita-2.0.dtd'>
+<DOC xmlns="http://www.calligra.org/DTD/krita" syntaxVersion="2" editor="Krita">
+ <IMAGE width="1600" profile="sRGB-elle-V2-srgbtrc.icc" y-res="100" mime="application/x-kra" description="" height="1200" colorspacename="RGBA" name="dragon" x-res="100">
+  <layers>
+   <layer opacity="255" x="0" channellockflags="" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" selected="true" uuid="{700a9660-2c00-4f26-a9f0-648d12c24c6b}" name="Layer 2" filename="layer2" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{3cc6dc59-043b-45bb-9f36-ffe101ab5d41}" name="Layer 1" filename="layer3" channelflags=""/>
+  </layers>
+  <ProjectionBackgroundColor ColorData="AAAAAA=="/>
+ </IMAGE>
+</DOC>

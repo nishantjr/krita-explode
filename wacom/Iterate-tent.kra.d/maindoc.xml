@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOC PUBLIC '-//KDE//DTD krita 2.0//EN' 'http://www.calligra.org/DTD/krita-2.0.dtd'>
+<DOC xmlns="http://www.calligra.org/DTD/krita" syntaxVersion="2" editor="Krita">
+ <IMAGE width="1600" profile="sRGB-elle-V2-srgbtrc.icc" y-res="100" mime="application/x-kra" description="" height="1200" colorspacename="RGBA" name="Iterate-tent" x-res="100">
+  <layers>
+   <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="0" collapsed="0" compositeop="normal" locked="0" uuid="{01165765-cb0d-4ade-866c-22218336783f}" name="Flags" filename="layer2" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{083ac0cb-9f3f-4da1-bbf5-8ea7afaf5237}" name="CampFire" filename="layer3" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="0" collapsed="0" compositeop="normal" locked="1" selected="true" uuid="{07c6e39a-48db-4bd3-93e3-630c1b16b889}" name="Tents" filename="layer4" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{505d1c04-2175-4c3f-bfc6-285494ab8081}" name="Layer 1" filename="layer5" channelflags=""/>
+  </layers>
+  <ProjectionBackgroundColor ColorData="AAAAAA=="/>
+ </IMAGE>
+</DOC>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document-info PUBLIC '-//KDE//DTD document-info 1.1//EN' 'http://www.calligra.org/DTD/document-info-1.1.dtd'>
+<document-info xmlns="http://www.calligra.org/DTD/document-info">
+ <about>
+  <title>xxxx</title>
+  <description></description>
+  <subject></subject>
+  <abstract><![CDATA[]]></abstract>
+  <keyword></keyword>
+  <initial-creator>Unknown</initial-creator>
+  <editing-cycles>1</editing-cycles>
+  <date>2016-01-24T00:54:00</date>
+  <creation-date>2016-01-23T23:59:43</creation-date>
+  <language></language>
+ </about>
+ <author>
+  <full-name></full-name>
+  <initial></initial>
+  <author-title></author-title>
+  <email></email>
+  <telephone></telephone>
+  <telephone-work></telephone-work>
+  <fax></fax>
+  <country></country>
+  <postal-code></postal-code>
+  <city></city>
+  <street></street>
+  <position></position>
+  <company></company>
+ </author>
+</document-info>

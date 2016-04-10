@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOC PUBLIC '-//KDE//DTD krita 2.0//EN' 'http://www.calligra.org/DTD/krita-2.0.dtd'>
+<DOC xmlns="http://www.calligra.org/DTD/krita" syntaxVersion="2" editor="Krita">
+ <IMAGE width="1600" profile="sRGB-elle-V2-srgbtrc.icc" y-res="100" mime="application/x-kra" description="" height="1200" colorspacename="RGBA" name="hibiya" x-res="100">
+  <layers>
+   <layer opacity="255" x="0" channellockflags="" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" selected="true" uuid="{3f3ce40c-eee5-4155-a8ee-94d3a7eeebc6}" name="Layer 2" filename="layer2" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{baa75c3e-3205-4a2e-a02a-f49a75e8881c}" name="Layer 3" filename="layer3" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{7fb7b7fa-4e97-43f9-8ac1-489da7815f6c}" name="Layer 1" filename="layer4" channelflags=""/>
+  </layers>
+  <ProjectionBackgroundColor ColorData="AAAAAA=="/>
+ </IMAGE>
+</DOC>

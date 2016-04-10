@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOC PUBLIC '-//KDE//DTD krita 2.0//EN' 'http://www.calligra.org/DTD/krita-2.0.dtd'>
+<DOC xmlns="http://www.calligra.org/DTD/krita" syntaxVersion="2" editor="Krita">
+ <IMAGE width="1600" profile="sRGB-elle-V2-srgbtrc.icc" y-res="100" mime="application/x-kra" description="" height="1200" colorspacename="RGBA" name="steam-engine-trace" x-res="100">
+  <layers>
+   <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" selected="true" uuid="{c90da78d-b26a-4dcf-96f8-59e5d8de0aa6}" name="Layer 2" filename="layer2" channelflags=""/>
+   <layer opacity="64" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{f86e7414-3365-4428-b1ae-c0bc83f4e5c5}" name="070728-048..jpg" filename="layer3" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{de14f47e-e7bb-4f88-8d84-8559505f651f}" name="Layer 1" filename="layer4" channelflags=""/>
+  </layers>
+  <ProjectionBackgroundColor ColorData="AAAAAA=="/>
+ </IMAGE>
+</DOC>

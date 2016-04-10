@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOC PUBLIC '-//KDE//DTD krita 2.0//EN' 'http://www.calligra.org/DTD/krita-2.0.dtd'>
+<DOC xmlns="http://www.calligra.org/DTD/krita" syntaxVersion="2" editor="Krita">
+ <IMAGE width="1600" profile="sRGB-elle-V2-srgbtrc.icc" y-res="100" mime="application/x-kra" description="" height="1200" colorspacename="RGBA" name="person-iterate" x-res="100">
+  <layers>
+   <layer opacity="255" x="0" channellockflags="" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{ae9d2650-c00b-4276-b00f-baa479a963d5}" name="Layer 3" filename="layer2" channelflags=""/>
+   <layer opacity="255" x="92" channellockflags="1111" nodetype="paintlayer" y="22" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{01123e53-02cc-4502-ae46-87a6788e6edd}" name="Layer 4(pasted)" filename="layer3" channelflags="1110"/>
+   <layer opacity="255" x="0" channellockflags="" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" selected="true" uuid="{708e7e25-753c-4374-8923-094fd34e4602}" name="Layer 2" filename="layer4" channelflags=""/>
+   <layer opacity="255" x="0" channellockflags="" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{5cb4bc6e-f997-47f4-a640-eef492aeefaf}" name="Layer 1" filename="layer5" channelflags=""/>
+  </layers>
+  <ProjectionBackgroundColor ColorData="AAAAAA=="/>
+ </IMAGE>
+</DOC>

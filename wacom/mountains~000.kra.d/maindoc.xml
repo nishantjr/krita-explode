@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOC PUBLIC '-//KDE//DTD krita 2.0//EN' 'http://www.calligra.org/DTD/krita-2.0.dtd'>
+<DOC xmlns="http://www.calligra.org/DTD/krita" syntaxVersion="2" editor="Krita">
+ <IMAGE width="2000" profile="sRGB-elle-V2-srgbtrc.icc" y-res="100" mime="application/x-kra" description="" height="1200" colorspacename="RGBA" name="mountains" x-res="100">
+  <layers>
+   <layer opacity="255" x="0" nodetype="grouplayer" y="0" passthrough="0" layerstyle="{4fd69e5b-2dcc-4c24-b7c7-eb3f736cedee}" visible="1" collapsed="1" compositeop="normal" locked="0" uuid="{922a291e-227b-43e0-a58e-d9b3dd42d080}" name="Flags" filename="layer2" channelflags="">
+    <layers>
+     <layer opacity="255" x="80" channellockflags="1111" nodetype="paintlayer" y="1147" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{1971e101-e183-4200-99be-2606e6adc831}" name="Flags2" filename="layer3" channelflags=""/>
+     <layer opacity="255" x="295" channellockflags="1111" nodetype="paintlayer" y="347" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{5bdfe2da-731c-44a1-92cd-3947efb17361}" name="Flags" filename="layer4" channelflags=""/>
+    </layers>
+   </layer>
+   <layer opacity="255" x="0" nodetype="grouplayer" y="0" passthrough="0" visible="1" collapsed="1" compositeop="normal" locked="0" uuid="{98ba1e8f-99c6-44f7-a989-dea4ae6ffb7a}" name="Foreground Mountain" filename="layer5" channelflags="">
+    <layers>
+     <layer opacity="255" x="556" channellockflags="1111" nodetype="paintlayer" y="344" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{ff0ba2c4-559d-4327-9347-d7b94247be6f}" name="More detail" filename="layer6" channelflags=""/>
+     <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{b1b134f3-d839-4ed7-8a71-e33d19bbe13b}" name="Road" filename="layer7" channelflags=""/>
+     <layer opacity="252" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{3acf9931-1702-4835-8c7a-40c40a41ab02}" name="Forground mountain (detail)" filename="layer8" channelflags=""/>
+     <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" layerstyle="{c5c948e9-b3ea-4d1e-ae09-f3aeba1dec6e}" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{ea60f646-e067-4ce5-855d-ae7da3860ab1}" name="Layer 33" filename="layer9" channelflags=""/>
+     <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" layerstyle="{631a39bf-2cd9-458f-98ed-02258b7998fa}" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{75727001-9430-4ae8-9a7c-65b07d9ce8c2}" name="Fill" filename="layer10" channelflags=""/>
+    </layers>
+   </layer>
+   <layer opacity="255" x="0" nodetype="grouplayer" y="0" passthrough="0" visible="1" collapsed="1" compositeop="normal" locked="0" uuid="{f1e1777c-e7cf-4dfb-a16e-cf9dc5cdf7a5}" name="Mountain (Left)" filename="layer11" channelflags="">
+    <layers>
+     <layer opacity="255" x="0" channellockflags="1110" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{24a21d76-ba58-4eff-851d-87f6893d00f8}" name="detail" filename="layer12" channelflags=""/>
+     <layer opacity="255" x="-42" nodetype="grouplayer" y="-90" passthrough="0" visible="1" collapsed="1" compositeop="darken" locked="1" uuid="{96c2fc74-0a67-430a-aad7-95896874218b}" name="Trees" filename="layer13" channelflags="">
+      <layers>
+       <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="color" locked="0" uuid="{0c3f0d60-1241-4841-a42e-8beb2e634eaf}" name="Layer 19" filename="layer14" channelflags=""/>
+       <layer opacity="255" x="114" channellockflags="1111" nodetype="paintlayer" y="-91" layerstyle="{82d90cd0-86e3-44a1-b952-7a7e654a437e}" colorspacename="RGBA" visible="1" collapsed="0" compositeop="darken" locked="0" uuid="{83ef9651-daad-4e16-9f7a-3e25b33440a8}" name="Trees" filename="layer15" channelflags=""/>
+       <layer opacity="255" x="1" channellockflags="1111" nodetype="paintlayer" y="53" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{06c983ce-3573-4816-bc8b-285839023b6e}" name="Trees" filename="layer16" channelflags=""/>
+       <layer opacity="255" x="60" channellockflags="1111" nodetype="paintlayer" y="-36" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{27b69557-d468-4503-b9eb-5ce198450e8d}" name="Trees" filename="layer17" channelflags=""/>
+       <layer opacity="255" x="70" channellockflags="1111" nodetype="paintlayer" y="19" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{b7e9fe1f-d01e-4a6e-8450-68927748aa4c}" name="Trees" filename="layer18" channelflags=""/>
+       <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="darken" locked="0" uuid="{b9365b40-989b-4053-8614-6d0660e21a42}" name="Layer 20" filename="layer19" channelflags=""/>
+      </layers>
+     </layer>
+     <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{dbb2e5a4-e9e8-4bd7-8ed8-cbd61124ef6b}" name="Layer 26" filename="layer20" channelflags=""/>
+    </layers>
+   </layer>
+   <layer opacity="255" x="0" nodetype="grouplayer" y="0" passthrough="0" visible="1" collapsed="1" compositeop="normal" locked="0" uuid="{62b82c40-8664-4ef7-9540-de14d37b3b6a}" name="River" filename="layer21" channelflags="">
+    <layers>
+     <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{77613f5a-dc85-4958-8067-2b70eaa3558b}" name="Outline" filename="layer22" channelflags=""/>
+     <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" layerstyle="{8c7f64f5-13dc-4764-ae4e-083f1f787234}" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{621cf2fb-ffe9-4e17-a15b-15bfb17f082e}" name="Color" filename="layer23" channelflags=""/>
+    </layers>
+   </layer>
+   <layer opacity="255" x="0" nodetype="grouplayer" y="0" passthrough="0" visible="1" collapsed="1" compositeop="normal" locked="0" uuid="{4dc592be-2479-4c49-8122-a4f692a5d36d}" name="MOuntain" filename="layer24" channelflags="">
+    <layers>
+     <layer opacity="255" x="18" channellockflags="1111" nodetype="paintlayer" y="-21" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{9fb0a809-0922-483e-9c73-a7614bd8267c}" name="Mountain Detail" filename="layer25" channelflags=""/>
+     <layer opacity="255" x="18" channellockflags="1111" nodetype="paintlayer" y="-21" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" uuid="{9de69303-ea42-4b21-b1df-8685ebfa0ca6}" name="Mountain Outlines" filename="layer26" channelflags=""/>
+     <layer opacity="255" x="0" channellockflags="1111" nodetype="paintlayer" y="0" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{79f25fc5-311a-4900-804d-679c9a9a3060}" name="Mountain shading more" filename="layer27" channelflags=""/>
+     <layer opacity="255" x="18" channellockflags="1111" nodetype="paintlayer" y="-21" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{d6929534-339a-4a57-901e-64da5f434d0e}" name="Mountain fill" filename="layer28" channelflags=""/>
+     <layer opacity="255" x="18" channellockflags="1111" nodetype="paintlayer" y="-21" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{eb2f440f-7d7e-461e-a800-a4cc1b14815a}" name="Mountain opaquer" filename="layer29" channelflags=""/>
+    </layers>
+   </layer>
+   <layer opacity="255" x="18" channellockflags="1111" nodetype="paintlayer" y="-21" layerstyle="{6add2812-1c40-41d2-aa18-4fc64bb53fb7}" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="0" selected="true" uuid="{0654035c-2b68-4983-95fc-4dc2ab44cb55}" name="Sky" filename="layer30" channelflags=""/>
+   <layer opacity="255" x="18" channellockflags="1111" nodetype="paintlayer" y="-21" colorspacename="RGBA" visible="1" collapsed="0" compositeop="normal" locked="1" uuid="{1c54526a-ad9d-4e3e-b8dd-9575b4bee4f0}" name="Layer 1" filename="layer31" channelflags=""/>
+  </layers>
+  <ProjectionBackgroundColor ColorData="AAAAAA=="/>
+ </IMAGE>
+</DOC>
