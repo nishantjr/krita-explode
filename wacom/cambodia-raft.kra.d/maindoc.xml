@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DOC PUBLIC '-//KDE//DTD krita 2.0//EN' 'http://www.calligra.org/DTD/krita-2.0.dtd'>
+<DOC xmlns="http://www.calligra.org/DTD/krita" editor="Krita" syntaxVersion="2">
+ <IMAGE height="2400" x-res="100" description="" mime="application/x-kra" y-res="100" name="cambodia-raft" width="3200" profile="sRGB-elle-V2-srgbtrc.icc" colorspacename="RGBA">
+  <layers>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Kayak 3&amp;4" filename="layer2" visible="1" opacity="255" colorlabel="0" uuid="{671382c6-fb5f-4e8b-8e0b-5560a13b8ad4}" collapsed="0" x="129" colorspacename="RGBA" y="-415"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 24" filename="layer3" visible="0" opacity="66" colorlabel="0" uuid="{dedd9bf4-a3d6-44c1-ab10-cdc11ca0d6af}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 23" filename="layer4" visible="0" opacity="38" colorlabel="0" uuid="{04327529-5310-4953-bc81-e0d9cea4bbf0}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 20" filename="layer5" visible="0" opacity="13" colorlabel="0" uuid="{4b0005da-fa78-43a5-9178-fcb91fd2c9cc}" collapsed="0" x="268" colorspacename="RGBA" y="142"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 19" filename="layer6" visible="0" opacity="28" colorlabel="0" uuid="{7d2fe879-2337-4e37-9117-6f2747b73cfa}" collapsed="0" x="-181" colorspacename="RGBA" y="-180"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 18" filename="layer7" visible="0" opacity="51" colorlabel="0" uuid="{7728423f-ef21-48dc-8bc8-af38ab48c73d}" collapsed="0" x="-109" colorspacename="RGBA" y="-355"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 19" filename="layer8" visible="0" opacity="43" colorlabel="0" uuid="{ede87081-2c0a-43f9-ad44-10edb0a91aab}" collapsed="0" x="-543" colorspacename="RGBA" y="108"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 18" filename="layer9" visible="1" opacity="54" colorlabel="0" uuid="{f3443e93-cc3d-4668-985a-1dd68812b4ba}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 17" filename="layer10" visible="0" opacity="38" colorlabel="0" uuid="{ba5d861e-723b-428a-adb7-106653c21365}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 16" filename="layer11" visible="1" opacity="255" colorlabel="0" uuid="{c1118d37-ffcb-41f0-8ac1-2d2c0585f5da}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Kayak 2" filename="layer12" visible="1" opacity="255" colorlabel="0" uuid="{98f53827-8017-42e9-ad6a-e847fc700235}" collapsed="0" x="2480" colorspacename="RGBA" y="586"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 13" filename="layer13" visible="0" opacity="43" colorlabel="0" uuid="{3e2fe76e-7c19-490e-819e-503bde12a28d}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 12" filename="layer14" visible="0" opacity="56" colorlabel="0" uuid="{5644ddbb-dd0d-499e-bb92-9ee0c5a02dbc}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 11" filename="layer15" visible="0" opacity="51" colorlabel="0" uuid="{3c13fa56-6917-42db-87a5-b84d9ba8fdf2}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 10" filename="layer16" visible="0" opacity="71" colorlabel="0" uuid="{fc43aa19-3417-4d2b-9ef3-10143c3e4de7}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 9" filename="layer17" visible="0" opacity="74" colorlabel="0" uuid="{1f93f59c-fb11-43a4-9cba-454fb83c5b04}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="1" nodetype="paintlayer" channelflags="" compositeop="normal" name="Kayak 1" filename="layer18" visible="1" opacity="255" colorlabel="0" uuid="{e6b0235a-3314-4b8d-b284-1d40a9e18570}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Tree" filename="layer19" visible="1" opacity="255" colorlabel="0" uuid="{2094bc54-8bb1-4a1d-ba22-06eb91c54be7}" collapsed="0" x="-210" colorspacename="RGBA" y="-2" selected="true"/>
+   <layer channellockflags="1111" locked="1" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 5" filename="layer20" visible="0" opacity="69" colorlabel="0" uuid="{7aa64dde-7ab4-4cb3-b6ee-525a9b8a5063}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="1" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 4" filename="layer21" visible="0" opacity="69" colorlabel="0" uuid="{1bb29caa-c8b6-4e0f-9ae8-5c80845ff3c4}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 3" filename="layer22" visible="0" opacity="74" colorlabel="0" uuid="{78d053e6-0d42-4039-a1a9-2b30cbc603d8}" collapsed="0" x="0" colorspacename="RGBA" y="0"/>
+   <layer channellockflags="1111" locked="0" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 2" filename="layer23" visible="0" opacity="36" colorlabel="0" uuid="{c799a5b4-8087-44b2-b7a1-725455851d79}" collapsed="0" x="800" colorspacename="RGBA" y="600"/>
+   <layer channellockflags="1111" locked="1" nodetype="paintlayer" channelflags="" compositeop="normal" name="Layer 1" filename="layer24" visible="0" opacity="255" colorlabel="0" uuid="{13ddf8ce-b6af-4bb9-aa2c-b9e738f23725}" collapsed="0" x="800" colorspacename="RGBA" y="600"/>
+  </layers>
+  <ProjectionBackgroundColor ColorData="AAAAAA=="/>
+  <animation>
+   <framerate type="value" value="24"/>
+   <range to="100" type="timerange" from="0"/>
+   <currentTime type="value" value="0"/>
+  </animation>
+ </IMAGE>
+</DOC>
