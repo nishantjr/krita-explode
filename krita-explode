@@ -11,9 +11,16 @@ fatal() {
     exit $exitcode
 }
 
-input_file="$1"; shift || true
-output_dir="$1"; shift || true
-[ -z "$output_dir" -o -n "$1" ] \
+source_file="$1"; shift || true
+target_dir="$1"; shift || true
+[ -z "$target_dir" -o -n "$1" ] \
     && fatal 129 'Usage: krita-explode <input.kra> <output.kra.d>'
+
+[ ! -f "$source_file" ] \
+    && fatal 1 "Source file '$source_file' does not exist"
+[ -e "$target_dir" ] \
+    && fatal 1 "Target directory '$target_dir' already exists"
+
+unzip -q "$source_file" -d "$target_dir"
 
 internal_error=false
