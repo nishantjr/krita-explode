@@ -1,12 +1,19 @@
 #!/usr/bin/env bash
 
+set -e
+internal_error=true
+trap '$internal_error && fatal 255 "INTERNAL ERROR. FAILED!"' 0
+
 fatal() {
     local exitcode="$1"; shift
+    internal_error=false
     echo 1>&2 "$@"
     exit $exitcode
 }
 
-input_file="$1"; shift
-output_dir="$1"; shift
+input_file="$1"; shift || true
+output_dir="$1"; shift || true
 [ -z "$output_dir" -o -n "$1" ] \
     && fatal 129 'Usage: krita-explode <input.kra> <output.kra.d>'
+
+internal_error=false
